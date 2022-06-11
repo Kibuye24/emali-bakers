@@ -1,0 +1,112 @@
+h1 {
+
+}
+h2 {
+  font-family: 'Ubuntu', serif;
+  font-weight: bold;
+  line-height: 1.5;
+  color: black;
+  text-align: center;
+}
+
+#title {
+  background-image: url('../images/baking-background.jpg');
+  background-size: cover;
+  height: 800px;
+}
+
+.title-div {
+  border-radius: 95%;
+  background-color: #fff;
+  margin-top: 100px;
+  margin-left: 400px;
+  width: 30%;
+  text-align: center;
+  opacity: 80%;
+  line-height: 2;
+}
+
+.btn {
+margin-left: 45%;
+margin-top: 100px;
+}
+
+.container-fluid {
+  padding: 1% 5%;
+}
+.logo {
+  width: 40px;
+  height: 40px;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 50px;
+}
+
+
+/* Features */
+#features {
+  text-align: center;
+  background-color: #fff;
+}
+
+.fa {
+  color: #F47C7C;
+  padding: 20px;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 4.5%;
+  margin: 45px;
+  border-radius: 20%;
+}
+
+/* Testimonials */
+#testimonial {
+  background-color: #FAF0D7;
+  text-align: center;
+  padding: 5% 5%;
+  height: 400px;
+}
+
+/* Menu */
+#menu {
+
+}
+.menu-img-left {
+  width: 400px;
+  height: 500px;
+  margin-left: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.menu-img-right {
+  width: 400px;
+  height: 500px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+/* Contact Section */
+#contact-section {
+background-color: #fff;
+}
+
+.contact-box {
+  background-color: #FCF8E8;
+  border-radius: 25px;
+  height: 250px;
+  padding-bottom: 100px;
+  padding-top: 50px;
+}
+
+/* Footer */
+#footer {
+  background-color: #E9D5CA;
+  text-align: center;
+  letter-spacing: 2px;
+}
